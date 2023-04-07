@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T11:38:18.878Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Safari/537.36" etag="xj1TfKjfRbak8p80HmhB" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-07T11:53:52.624Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Safari/537.36" etag="nT4zssiTtsAD-kSHlE_B" version="21.1.5" type="github">
   <diagram name="Page-1" id="g0ZMAqjUOyxAHx9sQ2Me">
-    <mxGraphModel dx="1194" dy="1888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2021" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="lA3brMiDB5tC0B3wYBCX-44" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lA3brMiDB5tC0B3wYBCX-8" target="lA3brMiDB5tC0B3wYBCX-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lA3brMiDB5tC0B3wYBCX-8" value="Block storage" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="290" y="40" width="110" height="30" as="geometry" />
+        <mxCell id="lA3brMiDB5tC0B3wYBCX-8" value="Block storage" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=#d5e8d4;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="369" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lA3brMiDB5tC0B3wYBCX-3" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="1" source="lA3brMiDB5tC0B3wYBCX-6" target="lA3brMiDB5tC0B3wYBCX-8">
           <mxGeometry relative="1" as="geometry" />
@@ -16,29 +16,23 @@
         <mxCell id="lA3brMiDB5tC0B3wYBCX-73" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="lA3brMiDB5tC0B3wYBCX-11" target="lA3brMiDB5tC0B3wYBCX-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lA3brMiDB5tC0B3wYBCX-75" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lA3brMiDB5tC0B3wYBCX-11" target="lA3brMiDB5tC0B3wYBCX-68">
+        <mxCell id="lA3brMiDB5tC0B3wYBCX-75" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="lA3brMiDB5tC0B3wYBCX-11" target="lA3brMiDB5tC0B3wYBCX-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lA3brMiDB5tC0B3wYBCX-76" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lA3brMiDB5tC0B3wYBCX-11" target="lA3brMiDB5tC0B3wYBCX-69">
+        <mxCell id="lA3brMiDB5tC0B3wYBCX-76" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="lA3brMiDB5tC0B3wYBCX-11" target="lA3brMiDB5tC0B3wYBCX-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lA3brMiDB5tC0B3wYBCX-77" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="lA3brMiDB5tC0B3wYBCX-11" target="lA3brMiDB5tC0B3wYBCX-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lA3brMiDB5tC0B3wYBCX-78" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lA3brMiDB5tC0B3wYBCX-11" target="lA3brMiDB5tC0B3wYBCX-71">
+        <mxCell id="lA3brMiDB5tC0B3wYBCX-78" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="lA3brMiDB5tC0B3wYBCX-11" target="lA3brMiDB5tC0B3wYBCX-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lA3brMiDB5tC0B3wYBCX-11" value="Object storage" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="280" y="620" width="120" height="30" as="geometry" />
+        <mxCell id="lA3brMiDB5tC0B3wYBCX-11" value="Object storage" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=#d5e8d4;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="490" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lA3brMiDB5tC0B3wYBCX-12" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="lA3brMiDB5tC0B3wYBCX-6" target="lA3brMiDB5tC0B3wYBCX-11">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lA3brMiDB5tC0B3wYBCX-23" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="70" as="sourcePoint" />
-            <mxPoint x="510" y="70" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="lA3brMiDB5tC0B3wYBCX-27" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lA3brMiDB5tC0B3wYBCX-25" target="lA3brMiDB5tC0B3wYBCX-8">
           <mxGeometry relative="1" as="geometry" />
@@ -52,14 +46,14 @@
         <mxCell id="lA3brMiDB5tC0B3wYBCX-32" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lA3brMiDB5tC0B3wYBCX-25" target="lA3brMiDB5tC0B3wYBCX-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lA3brMiDB5tC0B3wYBCX-25" value="storage devices" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="455" y="40" width="130" height="30" as="geometry" />
+        <mxCell id="lA3brMiDB5tC0B3wYBCX-25" value="storage devices" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="475" y="189" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lA3brMiDB5tC0B3wYBCX-28" value="SSD" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="680" width="70" height="30" as="geometry" />
+          <mxGeometry x="675" y="159" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lA3brMiDB5tC0B3wYBCX-31" value="HDD" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="680" y="60" width="70" height="30" as="geometry" />
+          <mxGeometry x="675" y="210" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lA3brMiDB5tC0B3wYBCX-39" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lA3brMiDB5tC0B3wYBCX-33" target="lA3brMiDB5tC0B3wYBCX-35">
           <mxGeometry relative="1" as="geometry" />
@@ -74,65 +68,65 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lA3brMiDB5tC0B3wYBCX-33" value="what is block storage" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="455" y="130" width="150" height="30" as="geometry" />
+          <mxGeometry x="475" y="516" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lA3brMiDB5tC0B3wYBCX-34" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="lA3brMiDB5tC0B3wYBCX-33" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="70" as="sourcePoint" />
+            <mxPoint x="390" y="399" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lA3brMiDB5tC0B3wYBCX-35" value="raw blocks dedicated to server as volumes" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="680" y="120" width="270" height="30" as="geometry" />
+          <mxGeometry x="690" y="449" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lA3brMiDB5tC0B3wYBCX-36" value="most flexible and versatile form of storage" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="680" y="170" width="270" height="30" as="geometry" />
+          <mxGeometry x="690" y="499" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lA3brMiDB5tC0B3wYBCX-37" value="can be formatted to be used as file system" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="680" y="217" width="270" height="30" as="geometry" />
+          <mxGeometry x="690" y="546" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lA3brMiDB5tC0B3wYBCX-38" value="fully owned by ONE server. NOT a shared resource" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="680" y="263" width="320" height="30" as="geometry" />
+          <mxGeometry x="690" y="592" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lA3brMiDB5tC0B3wYBCX-46" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lA3brMiDB5tC0B3wYBCX-43" target="lA3brMiDB5tC0B3wYBCX-49">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="760" y="-40" as="targetPoint" />
+            <mxPoint x="770" y="289" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lA3brMiDB5tC0B3wYBCX-53" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lA3brMiDB5tC0B3wYBCX-43" target="lA3brMiDB5tC0B3wYBCX-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lA3brMiDB5tC0B3wYBCX-43" value="how storage is connected to server" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="450" y="-70" width="230" height="30" as="geometry" />
+          <mxGeometry x="475" y="308" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lA3brMiDB5tC0B3wYBCX-49" value="physically attached" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="880" y="-140" width="150" height="30" as="geometry" />
+          <mxGeometry x="905" y="228" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lA3brMiDB5tC0B3wYBCX-56" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lA3brMiDB5tC0B3wYBCX-52" target="lA3brMiDB5tC0B3wYBCX-54">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="870" y="-30" as="sourcePoint" />
+            <mxPoint x="895" y="338" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lA3brMiDB5tC0B3wYBCX-57" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lA3brMiDB5tC0B3wYBCX-52" target="lA3brMiDB5tC0B3wYBCX-55">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="870" y="-30" as="sourcePoint" />
+            <mxPoint x="895" y="338" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lA3brMiDB5tC0B3wYBCX-52" value="over network" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="735" y="-60" width="110" height="30" as="geometry" />
+          <mxGeometry x="760" y="308" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lA3brMiDB5tC0B3wYBCX-54" value="high-speed network" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="880" y="-80" width="150" height="30" as="geometry" />
+          <mxGeometry x="905" y="288" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lA3brMiDB5tC0B3wYBCX-55" value="connectivity protocols - &lt;br&gt;Fibre Channel (FC) and iSCSI" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="880" y="-30" width="200" height="50" as="geometry" />
+          <mxGeometry x="905" y="338" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="lA3brMiDB5tC0B3wYBCX-6" value="Storage Systems" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="140" y="380" width="100" height="40" as="geometry" />
+        <mxCell id="lA3brMiDB5tC0B3wYBCX-6" value="Storage Systems" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="130" y="369" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lA3brMiDB5tC0B3wYBCX-5" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="1" source="lA3brMiDB5tC0B3wYBCX-6" target="lA3brMiDB5tC0B3wYBCX-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lA3brMiDB5tC0B3wYBCX-62" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lA3brMiDB5tC0B3wYBCX-10" target="lA3brMiDB5tC0B3wYBCX-58">
+        <mxCell id="lA3brMiDB5tC0B3wYBCX-62" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="lA3brMiDB5tC0B3wYBCX-10" target="lA3brMiDB5tC0B3wYBCX-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lA3brMiDB5tC0B3wYBCX-63" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="lA3brMiDB5tC0B3wYBCX-10" target="lA3brMiDB5tC0B3wYBCX-59">
@@ -141,38 +135,38 @@
         <mxCell id="lA3brMiDB5tC0B3wYBCX-64" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="lA3brMiDB5tC0B3wYBCX-10" target="lA3brMiDB5tC0B3wYBCX-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lA3brMiDB5tC0B3wYBCX-66" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lA3brMiDB5tC0B3wYBCX-10" target="lA3brMiDB5tC0B3wYBCX-61">
+        <mxCell id="lA3brMiDB5tC0B3wYBCX-66" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="lA3brMiDB5tC0B3wYBCX-10" target="lA3brMiDB5tC0B3wYBCX-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lA3brMiDB5tC0B3wYBCX-10" value="File storage" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="300" y="370" width="100" height="30" as="geometry" />
+        <mxCell id="lA3brMiDB5tC0B3wYBCX-10" value="File storage" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=#d5e8d4;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="263" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lA3brMiDB5tC0B3wYBCX-58" value="Higher-level abstraction. built on top of Block storage" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="675" y="330" width="330" height="30" as="geometry" />
+          <mxGeometry x="-430" y="200" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lA3brMiDB5tC0B3wYBCX-59" value="Data stored as files under a hierarchical directory structure" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="680" y="370" width="360" height="30" as="geometry" />
+          <mxGeometry x="-460" y="250" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lA3brMiDB5tC0B3wYBCX-60" value="Accessible to Large Number of servers" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="680" y="410" width="250" height="30" as="geometry" />
+          <mxGeometry x="-350" y="293" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lA3brMiDB5tC0B3wYBCX-61" value="Connected by file-level n/w protocols - SMB, NFS" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="680" y="450" width="310" height="30" as="geometry" />
+          <mxGeometry x="-410" y="340" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lA3brMiDB5tC0B3wYBCX-67" value="sacrifices performance for high durability, scaling, low cost" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="680" y="570" width="350" height="30" as="geometry" />
+          <mxGeometry x="-450" y="430" width="350" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lA3brMiDB5tC0B3wYBCX-68" value="stores data in a flat structure. No hierarchical&amp;nbsp;directory structure" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="680" y="610" width="380" height="30" as="geometry" />
+          <mxGeometry x="-480" y="470" width="380" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lA3brMiDB5tC0B3wYBCX-69" value="Restful API to access data" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="680" y="650" width="180" height="30" as="geometry" />
+          <mxGeometry x="-280" y="510" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lA3brMiDB5tC0B3wYBCX-70" value="Relatively slow compared to other storage types" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="680" y="690" width="300" height="30" as="geometry" />
+          <mxGeometry x="-400" y="555" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lA3brMiDB5tC0B3wYBCX-71" value="Cloud offerings - AWS S3, Azure blob" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="680" y="730" width="240" height="30" as="geometry" />
+          <mxGeometry x="-340" y="600" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
